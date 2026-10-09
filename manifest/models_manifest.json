@@ -1,0 +1,488 @@
+{
+  "host": "hdc5tfkad0tt0zj2.ssh.x-gpu.com",
+  "root": "/root/mcminimaxh3/app/ComfyUI/models",
+  "total_files": 80,
+  "total_size_bytes": 112501749057,
+  "files": [
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./geometry_estimation/put_geometry_estimation_models_here",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./diffusers/put_diffusers_models_here",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./unet/put_unet_files_here",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./optical_flow/put_optical_flow_models_here",
+      "target": ""
+    },
+    {
+      "type": "L",
+      "size": 1956193000,
+      "path": "./loras/minimax_h3_ref2v_turbo_4step_v0.1_comfyui_bf16.safetensors",
+      "target": "/.xgcos/.links/9d6e09be-5e14-5234-839d-2e612b51a3bc.safetensors"
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./loras/put_loras_here",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 195,
+      "path": "./loras/.cache/huggingface/CACHEDIR.TAG",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 1,
+      "path": "./loras/.cache/huggingface/.gitignore",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 128,
+      "path": "./loras/.cache/huggingface/download/minimax_h3_turbo_v4_step600_ema.safetensors.metadata",
+      "target": ""
+    },
+    {
+      "type": "L",
+      "size": 779849816,
+      "path": "./loras/minimax_h3_turbo_v4_step600_ema.safetensors",
+      "target": "/.xgcos/.links/10ed2ecd-aba9-5cef-84b6-8826447f4b12.safetensors"
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./audio_encoders/put_audio_encoder_models_here",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./controlnet/put_controlnets_and_t2i_here",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./hypernetworks/put_hypernetworks_here",
+      "target": ""
+    },
+    {
+      "type": "L",
+      "size": 414908601,
+      "path": "./IndexTTS-2.5/s2mel.pth",
+      "target": "/.xgcos/.links/61994523-c580-5843-b19e-2e44ab5612e7"
+    },
+    {
+      "type": "F",
+      "size": 28036335,
+      "path": "./IndexTTS-2.5/hf_cache/campplus_cn_common.bin",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 1874,
+      "path": "./IndexTTS-2.5/hf_cache/w2v-bert-2.0/config.json",
+      "target": ""
+    },
+    {
+      "type": "L",
+      "size": 2322063736,
+      "path": "./IndexTTS-2.5/hf_cache/w2v-bert-2.0/model.safetensors",
+      "target": "/.xgcos/.links/19ef28d2-4c33-561d-ba21-76277e357b17.safetensors"
+    },
+    {
+      "type": "F",
+      "size": 275,
+      "path": "./IndexTTS-2.5/hf_cache/w2v-bert-2.0/preprocessor_config.json",
+      "target": ""
+    },
+    {
+      "type": "L",
+      "size": 449228171,
+      "path": "./IndexTTS-2.5/hf_cache/bigvgan/bigvgan_generator.pt",
+      "target": "/.xgcos/.links/3ebf139f-a240-50d4-8976-7e60ce9bebb9"
+    },
+    {
+      "type": "F",
+      "size": 1405,
+      "path": "./IndexTTS-2.5/hf_cache/bigvgan/config.json",
+      "target": ""
+    },
+    {
+      "type": "L",
+      "size": 607290935,
+      "path": "./IndexTTS-2.5/codec.pth",
+      "target": "/.xgcos/.links/d4e1ba0e-10bf-5b00-8443-cffe749026c2"
+    },
+    {
+      "type": "F",
+      "size": 9343,
+      "path": "./IndexTTS-2.5/wav2vec2bert_stats.pt",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 907395,
+      "path": "./IndexTTS-2.5/multilingual_zh_ja_yue_char_del.tiktoken",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 374866,
+      "path": "./IndexTTS-2.5/feat2.pt",
+      "target": ""
+    },
+    {
+      "type": "L",
+      "size": 3259599833,
+      "path": "./IndexTTS-2.5/gpt.pth",
+      "target": "/.xgcos/.links/a813bac3-0cc6-55fb-866f-4ac3d84767b7"
+    },
+    {
+      "type": "F",
+      "size": 57170,
+      "path": "./IndexTTS-2.5/feat1.pt",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 2860,
+      "path": "./IndexTTS-2.5/config.yaml",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 16923827,
+      "path": "./insightface/models/buffalo_l/det_10g.onnx",
+      "target": ""
+    },
+    {
+      "type": "L",
+      "size": 143607619,
+      "path": "./insightface/models/buffalo_l/1k3d68.onnx",
+      "target": "/.xgcos/.links/c26161ef-0b9e-5e19-9aae-fdb7a4d0c7f6"
+    },
+    {
+      "type": "F",
+      "size": 5030888,
+      "path": "./insightface/models/buffalo_l/2d106det.onnx",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 1322532,
+      "path": "./insightface/models/buffalo_l/genderage.onnx",
+      "target": ""
+    },
+    {
+      "type": "L",
+      "size": 174383860,
+      "path": "./insightface/models/buffalo_l/w600k_r50.onnx",
+      "target": "/.xgcos/.links/6907020e-0766-5213-ba3b-ea291076da8a"
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./detection/put_detection_models_here",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./embeddings/put_embeddings_or_textual_inversion_concepts_here",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./frame_interpolation/put_frame_interpolation_models_here",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 21344827,
+      "path": "./frame_interpolation/rife47.pth",
+      "target": ""
+    },
+    {
+      "type": "L",
+      "size": 52026019,
+      "path": "./ultralytics/bbox/face_yolov8m.pt",
+      "target": "/.xgcos/.links/19c2dc63-ec50-5385-b895-e161c14f34a0"
+    },
+    {
+      "type": "L",
+      "size": 54827683,
+      "path": "./ultralytics/segm/person_yolov8m-seg.pt",
+      "target": "/.xgcos/.links/f1a5ce54-d1c6-5ef9-b485-24937fe821e5"
+    },
+    {
+      "type": "L",
+      "size": 7256783064,
+      "path": "./diffusion_models/custom_gen/qwen_image_2.1_int8_convrot.safetensors",
+      "target": "/.xgcos/.links/d9c0a3d0-8ceb-5a27-aede-a5d7323f6b17.safetensors"
+    },
+    {
+      "type": "L",
+      "size": 6201001296,
+      "path": "./diffusion_models/z_image_turbo_int8_convrot.safetensors",
+      "target": "/.xgcos/.links/fefe49ba-9c81-5325-ae2f-c9ad2d99ed22.safetensors"
+    },
+    {
+      "type": "L",
+      "size": 20970379616,
+      "path": "./diffusion_models/MiniMax_H3_FL2VA_pruned_int8_convrot.safetensors",
+      "target": "/.xgcos/.links/cd30b53a-4ea3-5bc5-9b52-7a2e5a9e407f.safetensors"
+    },
+    {
+      "type": "L",
+      "size": 123968978,
+      "path": "./diffusion_models/rt_detr_v4-x-hgnet_fp16.safetensors",
+      "target": "/.xgcos/.links/c81b775e-e921-5276-8c09-17afd25e56de.safetensors"
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./diffusion_models/put_diffusion_model_files_here",
+      "target": ""
+    },
+    {
+      "type": "L",
+      "size": 20970379616,
+      "path": "./diffusion_models/minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+      "target": "/.xgcos/.links/763a2a4d-a9fe-5666-ad36-29c6996dae86.safetensors"
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./background_removal/put_background_removal_models_here",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./photomaker/put_photomaker_models_here",
+      "target": ""
+    },
+    {
+      "type": "L",
+      "size": 1916645792,
+      "path": "./checkpoints/sdpose_wholebody_fp16.safetensors",
+      "target": "/.xgcos/.links/9950a86a-2bed-5644-8e25-bbd47ddd45de.safetensors"
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./checkpoints/put_checkpoints_here",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./style_models/put_t2i_style_model_here",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./latent_upscale_models/put_latent_upscale_models_here",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./clip_vision/put_clip_vision_models_here",
+      "target": ""
+    },
+    {
+      "type": "L",
+      "size": 2296635360,
+      "path": "./model_patches/minimax_h3_fun_controlnet_union_pruned_int8_convrot.safetensors",
+      "target": "/.xgcos/.links/eb8ed6af-02aa-54f5-aa4a-445a324114e3.safetensors"
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./model_patches/put_model_patches_here",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./clip/put_clip_or_text_encoder_models_here",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 1967,
+      "path": "./configs/v1-inference_fp16.yaml",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 2030,
+      "path": "./configs/v1-inference_clip_skip_2_fp16.yaml",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 4608,
+      "path": "./configs/v2-inpainting-inference.yaml",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 1857,
+      "path": "./configs/v2-inference_fp32.yaml",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 2063,
+      "path": "./configs/v1-inpainting-inference.yaml",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 1856,
+      "path": "./configs/v2-inference.yaml",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 1883,
+      "path": "./configs/v2-inference-v.yaml",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 1943,
+      "path": "./configs/v1-inference.yaml",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 2006,
+      "path": "./configs/v1-inference_clip_skip_2.yaml",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 1884,
+      "path": "./configs/v2-inference-v_fp32.yaml",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 2006,
+      "path": "./configs/anything_v3.yaml",
+      "target": ""
+    },
+    {
+      "type": "L",
+      "size": 5207808496,
+      "path": "./vae/minimax_h3_video_vae_fp16.safetensors",
+      "target": "/.xgcos/.links/625c79de-3cd0-54d9-88a5-d8d657fdcc5e.safetensors"
+    },
+    {
+      "type": "L",
+      "size": 605254808,
+      "path": "./vae/minimax_h3_audio_vae_fp32.safetensors",
+      "target": "/.xgcos/.links/85b3ac33-75f3-5930-bf1b-2f9b43bea2e2.safetensors"
+    },
+    {
+      "type": "L",
+      "size": 335304388,
+      "path": "./vae/ae.safetensors",
+      "target": "/.xgcos/.links/4cbcf946-ad14-537e-ae75-8c4706c1849e.safetensors"
+    },
+    {
+      "type": "L",
+      "size": 675509688,
+      "path": "./vae/custom_gen/qwen_image_2.1_vae_bf16.safetensors",
+      "target": "/.xgcos/.links/bdb8a0b7-6a4e-5065-8847-889873f0451c.safetensors"
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./vae/put_vae_here",
+      "target": ""
+    },
+    {
+      "type": "L",
+      "size": 3171670912,
+      "path": "./vae/minimax_h3_video_vae_int8_convrot.safetensors",
+      "target": "/.xgcos/.links/999781df-0d8a-53ef-a378-fa0bce3ae7d1.safetensors"
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./gligen/put_gligen_models_here",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./vae_approx/put_taesd_encoder_pth_and_taesd_decoder_pth_here",
+      "target": ""
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./upscale_models/put_esrgan_and_other_upscale_models_here",
+      "target": ""
+    },
+    {
+      "type": "L",
+      "size": 67061725,
+      "path": "./upscale_models/RealESRGAN_x2plus.pth",
+      "target": "/.xgcos/.links/1c390390-391c-5fdd-bdea-be961cbc9ada"
+    },
+    {
+      "type": "L",
+      "size": 67040989,
+      "path": "./upscale_models/RealESRGAN_x4plus.pth",
+      "target": "/.xgcos/.links/26c0433a-fbc1-55b8-8fb6-092a81eeba81"
+    },
+    {
+      "type": "F",
+      "size": 0,
+      "path": "./text_encoders/put_text_encoder_files_here",
+      "target": ""
+    },
+    {
+      "type": "L",
+      "size": 14952506624,
+      "path": "./text_encoders/qwen3vl_32b_minimax_h3_int4_convrot.safetensors",
+      "target": "/.xgcos/.links/f4217b6e-6007-5ffd-a2da-9e72d0bb5509.safetensors"
+    },
+    {
+      "type": "L",
+      "size": 8044982048,
+      "path": "./text_encoders/qwen_3_4b.safetensors",
+      "target": "/.xgcos/.links/f6c2b069-d657-5385-bd9d-5e90950e5b3f.safetensors"
+    },
+    {
+      "type": "L",
+      "size": 9350798360,
+      "path": "./text_encoders/custom_gen/qwen3vl_8b_int8_convrot.safetensors",
+      "target": "/.xgcos/.links/9b071d01-56fb-5a2a-b7da-187f83fa0011.safetensors"
+    }
+  ]
+}

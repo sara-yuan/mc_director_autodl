@@ -1,0 +1,8 @@
+*.log
+*.tar
+*.zip
+*.safetensors
+*.pth
+*.pt
+*.onnx
+__pycache__/
